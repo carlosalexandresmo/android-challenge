@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0f4d8a</color>
+    <color name="colorPrimaryDark">#05233f</color>
+    <color name="colorAccent">#f69679</color>
+
+    <color name="colorViewTop">#27282a</color>
+    <color name="colorViewNumberComment">#393939</color>
+    <color name="colorViewListComment">#27282a</color>
+    <color name="colorRecyclerViewBackground">#f7f7f7</color>
+
+    <color name="colorFontBlack">#000000</color>
+    <color name="colorFontGrey">#5a5a5a</color>
+</resources>

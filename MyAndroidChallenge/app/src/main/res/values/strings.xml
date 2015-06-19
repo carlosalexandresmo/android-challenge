@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyAndroidChallenge</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="activity_main">Places Galery</string>
+    <string name="activity_detail">Photo</string>
+    <string name="c">Hello world!</string>
+    <string name="d">Settings</string>
+</resources>
